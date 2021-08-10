@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+    color: rgb(92, 55, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.s123 {
+    margin-left: 510px;
+    display: flex;
+}
+
+hr {
+    border-style: dashed;
+    color: rgb(107, 219, 191);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(70, 185, 160);
+}
